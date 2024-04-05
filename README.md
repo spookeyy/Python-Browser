@@ -1,6 +1,6 @@
 # Python-Browser
 
-SUPREME
+### SUPREME
 
 # Description
 This Python code is a web browser application built using PyQt5. It allows you to navigate web pages, go back and forth, reload pages, and set a home page. The default home page is set to Google.
@@ -10,11 +10,7 @@ Clone the repository:
 ```
 git clone https://github.com/spookeyy/Python-Browser.git
 ```
-<<<<<<< HEAD
 # Install the required libraries/ modules:
-=======
-# Install the required libraries/ modules: 
->>>>>>> 16ea69640137b46e2d0139d126be9c008e2efe0c
 ```
 pip install pyqt5 PyQtWebEngine
 ```

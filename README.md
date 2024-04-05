@@ -8,16 +8,16 @@ This Python code is a web browser application built using PyQt5. It allows you t
 # Installation
 Clone the repository:
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/spookeyy/Python-Browser.git
 ```
-# Install the required dependencies: 
+# Install the required libraries/ modules:
 ```
 pip install pyqt5 PyQtWebEngine
 ```
 # Usage
 Run the Python script:
 ```
-python your_script.py
+python CZETSUPREME.py
 ```
 The web browser application will open, displaying the Google home page by default.
 
